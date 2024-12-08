@@ -1,6 +1,31 @@
 # Stock Market Forecast with LLM
 
-This project uses Python and Large Language Models to analyze and forecast stock market movements. The system analyzes data from major tech stocks including AAPL, MSFT, GOOGL, AMZN, and TSLA.
+## Overview
+This project combines traditional technical analysis with artificial intelligence to provide comprehensive stock market predictions and analysis. The system processes real-time market data from major tech stocks (AAPL, MSFT, GOOGL, AMZN, TSLA) and generates actionable insights through:
+
+### What You Get:
+1. **Price Predictions**
+   - Next-day price forecasts
+   - Trend direction indicators
+   - Confidence metrics for predictions
+
+2. **Technical Analysis Visualization**
+   - Interactive price charts
+   - Moving averages (20-day and 50-day)
+   - RSI (Relative Strength Index) indicators
+   - Overbought/Oversold signals
+
+3. **AI-Powered Insights**
+   - Market sentiment analysis
+   - Risk level assessment
+   - Trading recommendations (Buy/Hold/Sell)
+   - Automatic pattern recognition
+
+4. **Performance Metrics**
+   - Current price vs predicted movement
+   - Technical indicator status
+   - Sentiment analysis scores
+   - Risk assessment levels
 
 ## Project Structure
 
